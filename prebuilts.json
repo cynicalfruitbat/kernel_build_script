@@ -43,6 +43,5 @@
         "download_type": "git",
         "repo_url": "https://github.com/mst8981/android_kernel_samsung_a55x.git",
         "branch": "exynos-6.1-lts-dev",
-        "depth": 1
     }
 }
